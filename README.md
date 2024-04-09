@@ -66,7 +66,6 @@ This project utilizes the FreeCodeCamp book dataset, which contains user ratings
 * Implement a user interface for collecting user ratings and displaying recommendations.
 * Explore additional recommendation techniques like collaborative filtering or content-based filtering.
 * Evaluate the performance of the KNN model and compare it with other algorithms.
-
+  
 **Note:**
-
-This is a basic implementation of a book recommendation system using KNN. There's room for further development and optimization based on your specific needs.
+This is a basic implementation of a book recommendation system using KNN. 
