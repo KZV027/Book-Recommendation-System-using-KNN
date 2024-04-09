@@ -1,8 +1,10 @@
-# Book-Recommendation-System-using-KNN
-
-## Book Recommendation System using K-Nearest Neighbors (KNN)
+# Book Recommendation System using K-Nearest Neighbors (KNN)
 
 This repository implements a book recommendation system using the K-Nearest Neighbors (KNN) algorithm. The system leverages the FreeCodeCamp book dataset to recommend books to users based on their past preferences.
+
+![BookRecommedation ipynb - Colaboratory - Google Chrome 2024-04-08 17-07-56 (1) (1)](https://github.com/KZV027/Book-Recommendation-System-using-KNN/assets/94216170/9af29dbd-1bfb-4364-a50a-6a131f9f4983)
+
+
 
 **Features:**
 
