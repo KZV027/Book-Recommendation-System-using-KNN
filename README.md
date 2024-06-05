@@ -58,6 +58,7 @@ This project utilizes the FreeCodeCamp book dataset, which contains user ratings
 
 **Customization:**
 
+
 * You can modify the script to:
     - Adjust the number of neighbors (`k`) used for recommendations.
     - Explore different distance metrics for calculating similarity between books.
